@@ -1,0 +1,12 @@
+Origin: aReo
+Label: aReo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: A repo just for fun...
+
+SHA256:
+ 350127e2146c6d26587c823c6bb6d3f9ff351d0d010d881514b27d5052916cbe 826 Packages.bz2
+ 788a4f6907f602747d011f1a1484777ebc6ae23268c0ff0b5b40a1133ca65d56 716 Packages.xz
